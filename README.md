@@ -1,1 +1,1 @@
-The project is a simple DTMF based door lock system. Hardware based on Arduino.
+The project is a simple pick and place robot with gripping capability. Hardware based on Arduino.
